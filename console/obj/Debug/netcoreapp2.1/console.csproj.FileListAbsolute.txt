@@ -1,0 +1,11 @@
+/Users/gingerwilliams/source/dotnetDemo/console/bin/Debug/netcoreapp2.1/console.deps.json
+/Users/gingerwilliams/source/dotnetDemo/console/bin/Debug/netcoreapp2.1/console.runtimeconfig.json
+/Users/gingerwilliams/source/dotnetDemo/console/bin/Debug/netcoreapp2.1/console.runtimeconfig.dev.json
+/Users/gingerwilliams/source/dotnetDemo/console/bin/Debug/netcoreapp2.1/console.dll
+/Users/gingerwilliams/source/dotnetDemo/console/bin/Debug/netcoreapp2.1/console.pdb
+/Users/gingerwilliams/source/dotnetDemo/console/obj/Debug/netcoreapp2.1/console.csprojResolveAssemblyReference.cache
+/Users/gingerwilliams/source/dotnetDemo/console/obj/Debug/netcoreapp2.1/console.csproj.CoreCompileInputs.cache
+/Users/gingerwilliams/source/dotnetDemo/console/obj/Debug/netcoreapp2.1/console.AssemblyInfoInputs.cache
+/Users/gingerwilliams/source/dotnetDemo/console/obj/Debug/netcoreapp2.1/console.AssemblyInfo.cs
+/Users/gingerwilliams/source/dotnetDemo/console/obj/Debug/netcoreapp2.1/console.dll
+/Users/gingerwilliams/source/dotnetDemo/console/obj/Debug/netcoreapp2.1/console.pdb
