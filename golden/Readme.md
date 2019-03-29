@@ -26,4 +26,11 @@
 
 1. run `dotnet new xunit -o test-library` to create testing directory and unit test class
 2. run `dotnet sln add test-library/test-library.csproj` to add the test project to the solution.
-3. Create Library Unit Test public method
+3. run `dotnet add test-library/test-library.csproj reference library/library.csproj`
+4. Create Library Unit Test public method
+5. `dotnet restore`
+6. run the test `dotnet test test-library/test-library.csproj` It should fail first
+
+## Notes
+
+-   Note that you assert the value 42 is not equal to 19+23 (or 42) when you first create the unit test (Assert.NotEqual), which will fail. An important step in building unit tests is to create the test to fail once first to confirm its logic

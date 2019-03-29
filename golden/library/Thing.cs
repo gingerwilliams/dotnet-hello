@@ -1,6 +1,6 @@
 ﻿using static Newtonsoft.Json.JsonConvert;
 
-namespace library
+namespace Library
 {
     public class Thing
     {

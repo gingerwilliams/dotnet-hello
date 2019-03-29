@@ -1,0 +1,16 @@
+/Users/gingerwilliams/source/dotnetDemo/golden/test-library/obj/Debug/netcoreapp2.1/test-library.csproj.CoreCompileInputs.cache
+/Users/gingerwilliams/source/dotnetDemo/golden/test-library/obj/Debug/netcoreapp2.1/test-library.AssemblyInfoInputs.cache
+/Users/gingerwilliams/source/dotnetDemo/golden/test-library/obj/Debug/netcoreapp2.1/test-library.AssemblyInfo.cs
+/Users/gingerwilliams/source/dotnetDemo/golden/test-library/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/gingerwilliams/source/dotnetDemo/golden/test-library/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/gingerwilliams/source/dotnetDemo/golden/test-library/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/gingerwilliams/source/dotnetDemo/golden/test-library/bin/Debug/netcoreapp2.1/test-library.deps.json
+/Users/gingerwilliams/source/dotnetDemo/golden/test-library/bin/Debug/netcoreapp2.1/test-library.runtimeconfig.json
+/Users/gingerwilliams/source/dotnetDemo/golden/test-library/bin/Debug/netcoreapp2.1/test-library.runtimeconfig.dev.json
+/Users/gingerwilliams/source/dotnetDemo/golden/test-library/bin/Debug/netcoreapp2.1/test-library.dll
+/Users/gingerwilliams/source/dotnetDemo/golden/test-library/bin/Debug/netcoreapp2.1/test-library.pdb
+/Users/gingerwilliams/source/dotnetDemo/golden/test-library/bin/Debug/netcoreapp2.1/library.dll
+/Users/gingerwilliams/source/dotnetDemo/golden/test-library/bin/Debug/netcoreapp2.1/library.pdb
+/Users/gingerwilliams/source/dotnetDemo/golden/test-library/obj/Debug/netcoreapp2.1/test-library.csproj.CopyComplete
+/Users/gingerwilliams/source/dotnetDemo/golden/test-library/obj/Debug/netcoreapp2.1/test-library.dll
+/Users/gingerwilliams/source/dotnetDemo/golden/test-library/obj/Debug/netcoreapp2.1/test-library.pdb
