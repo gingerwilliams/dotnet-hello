@@ -21,3 +21,9 @@
 -   To add a reference to a NuGet package, use the `dotnet add package` command and specify the name of the package. (step 5)
 -   `dotnet restore` restores dependencies and creates an obj folder inside library with three files in it, plus a `project.assets.json` file
 -   Build the library with the `dotnet build` command. This produces a `library.dll` file under `golden/library/bin/Debug/netstandard1.4`:
+
+## Testing
+
+1. run `dotnet new xunit -o test-library` to create testing directory and unit test class
+2. run `dotnet sln add test-library/test-library.csproj` to add the test project to the solution.
+3. Create Library Unit Test public method
