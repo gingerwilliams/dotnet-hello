@@ -10,6 +10,8 @@
 4. run `dotnet sln` to add the newly created `library.csproj` project to the solution
 5. run `dotnet add library package Newtonsoft.Json` to add Package Reference to Item Group in library file.
 6. run `dotnet restore` similar to npm install
+7. Create a `Thing` class in place of `Class1`
+8. Run `dotnet build`
 
 ## Notes
 
@@ -18,3 +20,4 @@
 -   The `dotnet add` command adds new items to a project.
 -   To add a reference to a NuGet package, use the `dotnet add package` command and specify the name of the package. (step 5)
 -   `dotnet restore` restores dependencies and creates an obj folder inside library with three files in it, plus a `project.assets.json` file
+-   Build the library with the `dotnet build` command. This produces a `library.dll` file under `golden/library/bin/Debug/netstandard1.4`:
