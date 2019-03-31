@@ -6,3 +6,4 @@
 /Users/gingerwilliams/source/dotnetDemo/golden/library/obj/Debug/netstandard2.0/library.AssemblyInfo.cs
 /Users/gingerwilliams/source/dotnetDemo/golden/library/obj/Debug/netstandard2.0/library.dll
 /Users/gingerwilliams/source/dotnetDemo/golden/library/obj/Debug/netstandard2.0/library.pdb
+/Users/gingerwilliams/source/dotnetDemo/golden/library/obj/Debug/netstandard2.0/library.csprojResolveAssemblyReference.cache

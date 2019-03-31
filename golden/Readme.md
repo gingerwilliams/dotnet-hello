@@ -29,8 +29,40 @@
 3. run `dotnet add test-library/test-library.csproj reference library/library.csproj`
 4. Create Library Unit Test public method
 5. `dotnet restore`
-6. run the test `dotnet test test-library/test-library.csproj` It should fail first
+6. RUN THE TEST `dotnet test test-library/test-library.csproj` It should fail first `Assert.NotEqual(42, new Thing().Get(19, 23));`
+7. update the test to `Assert.Equal(42, new Thing().Get(19, 23));` To pass
 
 ## Notes
 
 -   Note that you assert the value 42 is not equal to 19+23 (or 42) when you first create the unit test (Assert.NotEqual), which will fail. An important step in building unit tests is to create the test to fail once first to confirm its logic
+
+## Console App
+
+1. run `dotnet new console -o app` to Create a new console application and app directory
+2. run `dotnet sln add app/app.csproj` to add the console app project to the solution
+3. run `dotnet add app/app.csproj reference library/library.csproj` to create the dependency on the library
+4. run `dotnet restore`to restore the dependencies of the three projects in the solution
+5. Open `Program.cs`
+
+    - Replace the contents of the Main method with the following line `WriteLine($"The answer is {new Thing().Get(19, 23)}");`
+    - Add two `using` directives to the top, - `using static System.Console; using Library;`
+
+6. Run `dotnet run -p app/app.csproj` to run the executable
+
+## Notes
+
+-   how does it reference the dependency and what changes?
+-   in `app.csproj` add
+-   ```<ItemGroup>
+      <ProjectReference Include="..\library\library.csproj" />
+    </ItemGroup>
+    ```
+-   In step 6 run `dotnet run` where the `-p` option to `dotnet run` specifies the project for the main application
+-   error: `Program.cs(10,13): error CS0103: The name 'Console' does not exist in the current context [/Users/gingerwilliams/source/dotnetDemo/golden/app/app.csproj]`
+
+`The build failed. Please fix the build errors and run again.`
+
+# Debug
+
+1. Set a breakpoint at the `WriteLine` statement in the `Main` method.
+2.

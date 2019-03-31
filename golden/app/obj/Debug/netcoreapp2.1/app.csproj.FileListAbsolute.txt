@@ -1,0 +1,13 @@
+/Users/gingerwilliams/source/dotnetDemo/golden/app/obj/Debug/netcoreapp2.1/app.csproj.CoreCompileInputs.cache
+/Users/gingerwilliams/source/dotnetDemo/golden/app/obj/Debug/netcoreapp2.1/app.AssemblyInfoInputs.cache
+/Users/gingerwilliams/source/dotnetDemo/golden/app/obj/Debug/netcoreapp2.1/app.AssemblyInfo.cs
+/Users/gingerwilliams/source/dotnetDemo/golden/app/bin/Debug/netcoreapp2.1/app.deps.json
+/Users/gingerwilliams/source/dotnetDemo/golden/app/bin/Debug/netcoreapp2.1/app.runtimeconfig.json
+/Users/gingerwilliams/source/dotnetDemo/golden/app/bin/Debug/netcoreapp2.1/app.runtimeconfig.dev.json
+/Users/gingerwilliams/source/dotnetDemo/golden/app/bin/Debug/netcoreapp2.1/app.dll
+/Users/gingerwilliams/source/dotnetDemo/golden/app/bin/Debug/netcoreapp2.1/app.pdb
+/Users/gingerwilliams/source/dotnetDemo/golden/app/bin/Debug/netcoreapp2.1/library.dll
+/Users/gingerwilliams/source/dotnetDemo/golden/app/bin/Debug/netcoreapp2.1/library.pdb
+/Users/gingerwilliams/source/dotnetDemo/golden/app/obj/Debug/netcoreapp2.1/app.csproj.CopyComplete
+/Users/gingerwilliams/source/dotnetDemo/golden/app/obj/Debug/netcoreapp2.1/app.dll
+/Users/gingerwilliams/source/dotnetDemo/golden/app/obj/Debug/netcoreapp2.1/app.pdb
